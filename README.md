@@ -59,7 +59,7 @@ It utilizes a **Hybrid Architecture**: A high-performance Native Java Core handl
 
 ## 🔮 Roadmap
 * [ ] Integration of `.tflite` RealESRGAN models for true AI Super Resolution.
-* [ ] Direct 4chan API Proxy switcher in Settings.
+* [ ] PDF Generator: Converts any thread/chat into a clean, printable PDF.
 * [ ] "Deep Sleep" mode for extreme battery saving.
 * [ ] Widget support for Hivemind stats.
 
