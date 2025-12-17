@@ -1,5 +1,5 @@
 # Titanium-Vault
-​# 🧬 ChanForge v23: Neural Nexus
+​🧬 ChanForge v23: Neural Nexus
 
 > **The Ultimate Offline-First Hybrid AI Browser & Archivist for Android.**
 
