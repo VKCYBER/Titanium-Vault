@@ -67,5 +67,5 @@ It utilizes a **Hybrid Architecture**: A high-performance Native Java Core handl
 This project is for educational and research purposes only. It is designed to simulate how offline AI architectures can function. The "crawling" features currently simulate data fetching for demonstration purposes. Users are responsible for any content accessed or generated.
 
 ---
-*Built with code & chaos by [Your Name]*
+*Built with code & chaos by [VKCYBER]*
 
